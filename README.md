@@ -10,10 +10,10 @@ implementation for the Franka Panda robot and related AL tuning GUI depends on
 [EUPanda], my ROS-based end-user programming framework.
 
 #### TODO:
-- document intregration with [EUPanda] (how to build the catkin workspace)
-- document main .launch files
-- add screenshot of the AL tuning GUI
-- add reference/link to paper
+- [ ] document intregration with [EUPanda] (how to build the catkin workspace)
+- [ ] document main .launch files
+- [ ] add screenshot of the AL tuning GUI
+- [ ] add reference/link to paper
 
 [EUPanda]: https://github.com/MattiaRacca/eupanda
 
