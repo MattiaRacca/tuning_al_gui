@@ -1,0 +1,12 @@
+<library path="src">
+  <class name="Active tuning GUI plugin" type="active_gui.ActiveGUIPlugin" base_class_type="rqt_gui_py::Plugin">
+    <description>
+      Python GUI plugin for the Active Tuning GUI.
+    </description>
+    <qtgui>
+      <label>Active tuning GUI plugin</label>
+      <icon type="theme">system-help</icon>
+      <statustip>Plugin for the Active tuning GUI for EUPanda</statustip>
+    </qtgui>
+  </class>
+</library>
